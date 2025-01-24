@@ -1,6 +1,7 @@
 body {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 h1 {
     color: rgb(0, 0, 0);
@@ -8,4 +9,8 @@ h1 {
 }
 body{
     background-color: rgb(196, 196, 202);
+}
+p{
+    color: green;
+    font-weight: bold;
 }
