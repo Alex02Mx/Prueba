@@ -3,6 +3,9 @@ body {
     justify-content: center;
 }
 h1 {
-    color: rgb(4, 97, 35);
+    color: rgb(235, 165, 14);
     font-size: 25px;
+}
+body{
+    background-color: rgb(196, 196, 202);
 }
